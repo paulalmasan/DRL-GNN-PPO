@@ -3,6 +3,7 @@
 
 # Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case
 #### Link to paper: [[here](https://arxiv.org/abs/1910.07421)]
+#### Link to DQN implementation: [[here](https://github.com/knowledgedefinednetworking/DRL-GNN)]
 #### P. Almasan, J. Suárez-Varela, A. Badia-Sampera, K. Rusek, P. Barlet-Ros, A. Cabellos-Aparicio.
  
 Contact: <felician.paul.almasan@upc.edu>
